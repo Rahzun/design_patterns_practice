@@ -1,0 +1,2 @@
+javac <file_name>   	=> to compile the java file
+java <file_name>	=> to execute the class file
